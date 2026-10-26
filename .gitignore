@@ -1,0 +1,15 @@
+# Sensitive config files
+config.php
+.env
+
+# Uploaded user files / temp files
+uploads/*
+!uploads/.gitkeep
+
+# System and editor files
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.log
+.vscode/
+.idea/
